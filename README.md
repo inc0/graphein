@@ -5,6 +5,7 @@ This tool turns pattern of pdb files to featurized graph of atoms. Atoms are gra
 * Atomic number
 * Valence electrons
 * Electronegativity
+* Charge
 
 For each pdb file, corresponding `<filename>_graph.json` is created with serialized graph representation.
 
